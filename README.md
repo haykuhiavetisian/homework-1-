@@ -16,7 +16,7 @@
       <p>Education</p>
       <div>
         <ul>
-            <li>French University of Armenia</li>
+           
             <li>Ufar</li>
         </ul>
       </div>
