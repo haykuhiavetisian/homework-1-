@@ -32,7 +32,7 @@
             <ul>
                 <li>English skills</li>
                 <li>Math skills</li>
-                <li>Ability to work in team</li>
+                <li>Videography</li>
                 <li>Hardworking</li>
             </ul>
         </div>
