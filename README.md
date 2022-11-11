@@ -9,28 +9,28 @@
   </head>
   <body>
     <div id="container">
-      <h1>Ani Aghamyan</h1>
+      <h1>Haykuhi Avetisian</h1>
       <div class="image">
         Here should be your photo with fixed width and height
       </div>
       <p>Education</p>
       <div>
         <ul>
-            <li>Ptghavani secondary school</li>
+            <li>French University of Armenia</li>
             <li>Ufar</li>
         </ul>
       </div>
       <div class="extra">
         <div>
             <ul>
-                <li>German knowledge</li>
+                <li>Photography</li>
                 <li>English knowledge</li>
                 <li>French knowledge</li>
             </ul>
         </div>
         <div>
             <ul>
-                <li>Russian Knowledge</li>
+                <li>English skills</li>
                 <li>Math skills</li>
                 <li>Ability to work in team</li>
                 <li>Hardworking</li>
