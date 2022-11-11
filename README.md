@@ -16,7 +16,7 @@
       <p>Education</p>
       <div>
         <ul>
-           
+          <li>Eurnekian school</li>
             <li>Ufar</li>
         </ul>
       </div>
